@@ -29,7 +29,7 @@ What a notation is
 
 There are lots of examples.  Let's start with numbers.
 
-Start with a number formatted in the American English notation: `123,456,789.01.`  Oracle makes [a list of international formats for numbers](http://docs.oracle.com/cd/E19455-01/806-0169/overview-9/index.html) which shows only twelve countries, yet those countries do things quite differently: switching commas, periods, and spaces as their thousands and decimal separator.  As one expands the country list, one finds different opinions on how many digits to group together, when to omit, how many decimals to use at default (mantissa,) et cetera.
+Start with a number formatted in the American English notation: `123,456,789.01`.  Oracle makes [a list of international formats for numbers](http://docs.oracle.com/cd/E19455-01/806-0169/overview-9/index.html) which shows only twelve countries, yet those countries do things quite differently: switching commas, periods, and spaces as their thousands and decimal separator.  As one expands the country list, one finds different opinions on how many digits to group together, when to omit, how many decimals to use at default (mantissa,) et cetera.
 
 An example of a few number formattings:
 
