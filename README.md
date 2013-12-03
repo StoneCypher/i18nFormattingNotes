@@ -11,6 +11,19 @@ In the hope of writing support libraries, I'd like to start the ball rolling, he
 
 
 
+What notations are in here?
+---------------------------
+
+* Number formatting
+* Date, Time, DateTime formatting
+* Money formatting
+* Quote marks and quotations
+* Citations
+* Bullet numbering
+* Reference numbering
+
+
+
 What a notation is
 ------------------
 
@@ -31,6 +44,8 @@ An example of a few number formattings:
 | Japan         | `,`        | `.`       | 4       | -       | 2        | 1,2345,6789.01                     |
 | India         | `,`        | `.`       | 2/3     | -       | 2        | 12,34,56,789.01                    |
 | Saudi Arabia  | `&#x066C;` | `&#1643;` | 3       | -       | 2        | 123&#x066C;456&#x066C;789&#1643;01 |
+
+There are lots more notations for numbers, and there are lots more notations than numbers.
 
 
 
