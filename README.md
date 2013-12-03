@@ -60,6 +60,20 @@ I'd like to start documenting these practices, for implementation's sake.  I'll 
 
 
 
+How you can help
+----------------
+
+Several straightforward ways.
+
+* Copy one of the templates into your language, if it doesn't exist, and fill it out
+* Improve one of the existing templates in your language
+* Improve the base template itself (please [read how first](#)).
+* Add a new template (please [read how first](#)).
+
+Other ways are great, too, if you can find them, but those are the core ways that this set of instructions will grow fastest.
+
+
+
 Polemic :neckbeard:
 -------------------
 
