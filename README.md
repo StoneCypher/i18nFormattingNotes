@@ -16,6 +16,7 @@ What notations are in here?
 
 * Number formatting
 * Date, Time, DateTime formatting
+* Day of Week, Calendar Week, Week Start Day
 * Money formatting
 * Quote marks and quotations
 * Citations
