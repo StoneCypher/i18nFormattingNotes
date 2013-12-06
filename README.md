@@ -22,6 +22,7 @@ What notations are in here?
 * Citations
 * Bullet numbering
 * Reference numbering
+* Telephone number formatting
 
 
 
@@ -30,7 +31,12 @@ What a notation is
 
 There are lots of examples.  Let's start with numbers.
 
-Start with a number formatted in the American English notation: `123,456,789.01`.  Oracle makes [a list of international formats for numbers](http://docs.oracle.com/cd/E19455-01/806-0169/overview-9/index.html) which shows only twelve countries, yet those countries do things quite differently: switching commas, periods, and spaces as their thousands and decimal separator.  As one expands the country list, one finds different opinions on how many digits to group together, when to omit, how many decimals to use at default (mantissa,) et cetera.
+Start with a number formatted in the American English notation: `123,456,789.01`.  Oracle makes [a list of
+international formats for numbers](http://docs.oracle.com/cd/E19455-01/806-0169/overview-9/index.html)
+which shows only twelve countries, yet those countries do things quite differently: switching commas, periods,
+and spaces as their thousands and decimal separator.  As one expands the country list, one finds different
+opinions on how many digits to group together, when to omit, how many decimals to use at default (mantissa,)
+et cetera.
 
 An example of a few number formattings:
 
@@ -53,9 +59,11 @@ There are lots more notations for numbers, and there are lots more notations tha
 The purpose
 -----------
 
-This repo is intended to gather a wide variety of formatting types, and to index them by country, by language, by region, by notation, by context, et cetera.
+This repo is intended to gather a wide variety of formatting types, and to index them by country, by language,
+by region, by notation, by context, et cetera.
 
-Time and date.  Currency.  Numbers.  Quote marks.  Bullet numbering.  Reference numbering.  Foreign orthography.  All of these topics and more vary from language to language.
+Time and date.  Currency.  Numbers.  Quote marks.  Bullet numbering.  Reference numbering.  Foreign
+orthography. All of these topics and more vary from language to language.
 
 I'd like to start documenting these practices, for implementation's sake.  I'll need international help.
 
@@ -71,11 +79,13 @@ Several straightforward ways.
 * Improve the base template itself (please [read how first](#)).
 * Add a new template (please [read how first](#)).
 
-Other ways are great, too, if you can find them, but those are the core ways that this set of instructions will grow fastest.
+Other ways are great, too, if you can find them, but those are the core ways that this set of instructions
+will grow fastest.
 
 
 
 Polemic :neckbeard:
 -------------------
 
-`i18nFormattingNotes` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
+`i18nFormattingNotes` is MIT licensed, because viral licenses and newspeak language modification are evil.
+Free is ***only*** free when it's free for everyone.
