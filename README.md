@@ -15,14 +15,19 @@ What notations are in here?
 ---------------------------
 
 * Number formatting
+  * Numeral notation
 * Date, Time, DateTime formatting
-* Day of Week, Calendar Week, Week Start Day
+  * Day of Week, Calendar Week, Week Start Day
 * Money formatting
 * Quote marks and quotations
-* Citations
+  * Citations
 * Bullet numbering
+  * Indent list numbering
 * Reference numbering
+* Natural name notation
+  * Naturalized name notation
 * Telephone number formatting
+* Address format
 
 
 
